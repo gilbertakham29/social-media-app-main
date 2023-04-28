@@ -17,7 +17,7 @@
 9. Better protected routes: Make use of the "next=?" prop
 10. Better storage validation and optimization (using serverless functions to compress and upload profile picture files)
 11. Auth optimization: Store user to localStorage to reduce auth user loading time
-12. Deploying to Hostinger: Remember .env vars
+
 
 - Deploy to Vercel - https://social-media-app-main.vercel.app/register
 
